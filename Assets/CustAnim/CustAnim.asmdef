@@ -1,0 +1,17 @@
+{
+    "name": "CustAnim",
+    "rootNamespace": "",
+    "references": [
+        "GUID:336d7c9010355104ab5ad45bc37b9329",
+        "GUID:590f57b46aaa71c49b3d6354357afd88"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
